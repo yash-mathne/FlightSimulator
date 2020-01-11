@@ -1,7 +1,8 @@
-## 3D-Game
+A 3D Game in OpenGL written in C++
 
-The Game Is On The Link - 
+Instructions:
 
-```
-			Thank you!!! Enjoy the game  
-```			
+mkdir build
+cd build
+cmake
+make all
